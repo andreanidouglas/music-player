@@ -1,0 +1,6 @@
+.cache/
+.project.gf
+*.json
+compile_commands.json
+*.mp3
+player

@@ -1,0 +1,3 @@
+[submodule "vendored/id3v2lib"]
+	path = vendored/id3v2lib
+	url = https://github.com/larsbs/id3v2lib
